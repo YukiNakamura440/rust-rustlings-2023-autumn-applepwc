@@ -25,6 +25,9 @@ hint = """
 The declaration on line 8 is missing a keyword that is needed in Rust
 to create a new variable binding."""
 
+
+
+
 [[exercises]]
 name = "variables2"
 path = "exercises/variables/variables2.rs"
