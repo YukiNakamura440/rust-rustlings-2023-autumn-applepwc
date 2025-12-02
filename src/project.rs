@@ -18,7 +18,6 @@ pub struct Crate {
     root_module: String,
     edition: String,
     deps: Vec<String>,
-    cfg: Vec<String>,
 }
 
 impl RustAnalyzerProject {
